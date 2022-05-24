@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ppulimamidy
+- 👋 Hi, I’m @pranathi pulimamidy
 - 👀 I’m interested in cutting edge technologies
 - 🌱 I’m currently learning blockchain technologies
 - 💞️ I’m looking to collaborate on hyperledger fabric
