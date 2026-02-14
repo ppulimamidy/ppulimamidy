@@ -2,8 +2,8 @@
 - 👋 Hi, I’m @pranathi pulimamidy
 - 👀 I’m interested in cutting edge technologies
 - like to build challenging products working in an environment where I can experiment, innovate, learn and have fun.
-- 🌱 I’m currently learning blockchain technologies and building hyperledger-fabric permissioned Blockchain POC
-- 💞️ I’m looking to collaborate on hyperledger fabric
+- 🌱 I’m currently working in Applied AI, Agentic Engineering and building AI Agents and Agentic Architectures
+- 💞️ I’m looking to collaborate on AI/ML, Applied AI, MLOps
 - 📫 How to reach me ...
 
 ## 🌐Socials
